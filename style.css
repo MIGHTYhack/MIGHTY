@@ -76,8 +76,8 @@ input{
 }
 
 .btn{
-    width:1000%;
-    padding:120px;
+    width:100%;
+    padding:12px;
     border:none;
     border-radius:4px;
     font-size:15px;
@@ -85,14 +85,14 @@ input{
     margin-bottom:10px;
 }
 
-.nav{
+  nav{
     background:#151677;
     color:white;
     
 }
 
 .register{
-    background:#574242;
+    background:#666;
     color:white;
 }
 
@@ -106,10 +106,14 @@ input{
     margin-bottom:10px;
 }
 .box{background:#fff;margin:20px;padding:20px;border-radius:6px}
-.button{width:1000%;padding:10px;background:#007ad9;color:#fff;border:none}
+button{padding:10px;background:#007ad9;color:#fff;border:none}
 
 
     h1{
       height: 500px;
 
     }
+.table{
+color: #151677;
+width: 100%;
+}
